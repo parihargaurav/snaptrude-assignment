@@ -1,4 +1,4 @@
-# snaptrude-assignment
+# Snaptrude Assignment
 # The Objectives that I had achieved in my assignment.
 1. Setup of Babylon.js project environment
 2. Created a cube mesh object.
