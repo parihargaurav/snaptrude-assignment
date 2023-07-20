@@ -8,4 +8,6 @@
 4. Other features that enhances the user experience, such as resetting the cube after refreshing the page and  allowing cube to get extruded.
 5. Also added light feature that helps in defining of the top and bottom level of cube.
 # Run the file
-1. Simply run the index.html file and keep editing the cube using mouse cursor.
+1. Here it contains server folder in that there are 2 files: Index.html  and app.js.
+2. Simply run the index.html file and keep editing the cube using mouse cursor.
+3. app.js file where the logic and how the implementation is working Code is there along with necessary comments.
